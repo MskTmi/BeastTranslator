@@ -7,6 +7,9 @@
 1. 运行 [Mirai Console](https://github.com/mamoe/mirai) 生成plugins文件夹;
 
 2. 下载 [BeastTranslator](https://github.com/MskTmi/BeastTranslator/releases) 将 `BeastTranslator-1.0.0.mirai2.jar` 放置在plugins文件夹;
+3. 
+## 效果
+![示例](https://github.com/MskTmi/BeastTranslator/assets/87525977/e9308616-f364-4f7f-8803-9429c86dbd12)
 
 ## 翻译
 | 指令                               | 描述       |
