@@ -1,4 +1,4 @@
-package net.msktmi
+package com.msktmi
 
 import net.mamoe.mirai.console.plugin.jvm.JvmPluginDescription
 import net.mamoe.mirai.console.plugin.jvm.KotlinPlugin

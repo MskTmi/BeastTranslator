@@ -6,7 +6,7 @@ plugins {
     id("net.mamoe.mirai-console") version "2.15.0"
 }
 
-group = "net.msktmi"
+group = "com.msktmi"
 version = "1.1.0"
 
 repositories {

@@ -1,4 +1,4 @@
-package net.msktmi
+package com.msktmi
 
 import kotlin.text.Regex as Regex1
 
